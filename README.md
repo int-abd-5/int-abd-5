@@ -91,8 +91,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=int-abd-5&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int-abd-5&layout=compact&theme=tokyonight)
+  <img height="170" src="./generated/github-stats.svg" />
+  <img height="170" src="./generated/top-langs.svg" />
 </p>
 
 ---
