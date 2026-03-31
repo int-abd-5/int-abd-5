@@ -91,8 +91,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=int-abd-5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=int-abd-5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=int-abd-5&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int-abd-5&layout=compact&theme=tokyonight)
 </p>
 
 ---
