@@ -90,10 +90,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="./generated/github-stats.svg" />
-  <img height="170" src="./generated/top-langs.svg" />
-</p>
+
+![GitHub Stats](./generated/github-stats.svg)
+![Top Langs](./generated/top-langs.svg)
+
 
 ---
 
