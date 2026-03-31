@@ -88,14 +88,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-
-![GitHub Stats](./generated/github-stats.svg)
-![Top Langs](./generated/top-langs.svg)
-
-
----
 
 ## 🐍 Contribution Snake
 
@@ -107,9 +100,10 @@
 
 ## 📈 3D Contribution Graph
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg">
+</picture>
 
 ---
 
